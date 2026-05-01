@@ -1,0 +1,6 @@
+# Anime God\n\nAnime God is an anime streaming application built with a modern tech stack. This project provides a platform for users to watch, discover, and interact with a vast library of anime titles.\n\n## Tech Stack\n- **Frontend**: React, TypeScript\n- **Backend**: Node.js, Express\n- **Database**: MongoDB\n- **Deployment**: Docker, AWS\n\n## Getting Started\nFollow the instructions below to set up the project locally.\n\n### Prerequisites\n- Node.js (v14 or later)\n- MongoDB\n- Docker (for deployment)\n\n### Installation\n1. Clone the repository:  
+   `git clone https://github.com/aarushluthra7-cmyk/Anime-god.git`\n2. Navigate to the project directory:  
+   `cd Anime-god`\n3. Install dependencies:  
+   `npm install` (for both frontend and backend)\n\n### Running the Project\n- **Frontend**:  
+   Navigate to the frontend directory and run `npm start`.\n- **Backend**:  
+   Navigate to the backend directory and run `npm start`.\n\n## License\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
